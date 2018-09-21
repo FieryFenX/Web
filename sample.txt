@@ -1,3 +1,4 @@
 first sample of text
+wow, second sample of text (so unpredictable!)
 
 that's enough for now
